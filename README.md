@@ -93,7 +93,7 @@ I'm **Swayam Prabhu**, a developer focused on Artificial Intelligence, agentic L
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <!-- Replace href="#" with your live portfolio website URL once ready -->
-  <a href="#" target="_blank">
+  <a href="https://swayamprabhu2005.github.io/Portfolio-Website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
