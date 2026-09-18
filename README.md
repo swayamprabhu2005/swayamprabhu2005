@@ -21,7 +21,7 @@ I'm **Swayam Prabhu**, a developer focused on Artificial Intelligence, agentic L
   <img src="https://img.shields.io/badge/Natural_Language_Processing-8E75B2?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Natural Language Processing" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Fast_Whisper-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Fast Whisper" />
+  <img src="https://img.shields.io/badge/Fast_Whisper-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
 
