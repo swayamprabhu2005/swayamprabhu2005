@@ -12,20 +12,19 @@ I'm **Swayam Prabhu**, a developer focused on Artificial Intelligence, agentic L
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
-<h3 align="center">🤖 Artificial Intelligence & Deep Learning</h3>
+<h3 align="center">Artificial Intelligence & Deep Learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Natural_Language_Processing-8E75B2?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Natural Language Processing" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Fast_Whisper-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
 
-<h3 align="center">🧠 AI Agents & LLM Engineering</h3>
+<h3 align="center">AI Agents & LLM Engineering</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
@@ -34,7 +33,7 @@ I'm **Swayam Prabhu**, a developer focused on Artificial Intelligence, agentic L
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
-<h3 align="center">⚡ Frontend Development</h3>
+<h3 align="center">Frontend Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
@@ -46,18 +45,17 @@ I'm **Swayam Prabhu**, a developer focused on Artificial Intelligence, agentic L
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h3 align="center">⚙️ Backend Development</h3>
+<h3 align="center">Backend Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Backend" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-<h3 align="center">🗄️ Databases & Cloud</h3>
+<h3 align="center">Databases & Cloud</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -67,7 +65,7 @@ I'm **Swayam Prabhu**, a developer focused on Artificial Intelligence, agentic L
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<h3 align="center">🔧 Development Tools</h3>
+<h3 align="center">Development Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -77,7 +75,7 @@ I'm **Swayam Prabhu**, a developer focused on Artificial Intelligence, agentic L
 
 ---
 
-<h2 align="center">📬 Contact Information</h2>
+<h2 align="center">Contact Information</h2>
 
 <p align="center">
   <a href="mailto:swayamkiranprabhu2005@gmail.com" target="_blank">
