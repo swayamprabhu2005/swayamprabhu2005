@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Swayam Prabhu</h1>
 
 <p align="center">
-  <em>🚀 Exquisite learner passionate about Artificial Intelligence, AI Agents & LLMs, Full-Stack Development, and Algorithmic Problem Solving.</em>
+  <em>Exquisite learner passionate about Artificial Intelligence, AI Agents & LLMs, Full-Stack Development, and Algorithmic Problem Solving.</em>
 </p>
 
 ---
